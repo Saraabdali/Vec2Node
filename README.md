@@ -1,6 +1,7 @@
 # Vec2Node: Self-training with Tensor Augmentation for Text Classification with Few Labels 
 #########################################################################################################################
 To appear at ECML PKDD 2022.
+
 Authors:Sara Abdali, Subhabrata Mukherjee, Evangelos Papalexakis
 #########################################################################################################################
 Recent advances in state-of-the-art machine learning models like deep
